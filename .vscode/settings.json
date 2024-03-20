@@ -1,0 +1,8 @@
+{
+  "editor.fontVariations": false,
+  "editor.fontFamily": "Source Code Pro",
+  "editor.fontSize": 12,
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "files.autoSave": "afterDelay"
+}

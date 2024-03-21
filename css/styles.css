@@ -169,6 +169,7 @@ btn:link {
   background: var(--neutralDarkGreyBlue);
 }
 
+
 @media screen and (max-width: 760px) {
   .result {
     width: 100%;
@@ -190,12 +191,4 @@ btn:link {
     overflow: hidden;
     padding: 0;
   }
-}
-
-.attribution {
-  font-size: 11px;
-  text-align: center;
-}
-.attribution a {
-  color: hsl(228, 45%, 44%);
 }
